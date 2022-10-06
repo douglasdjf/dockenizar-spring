@@ -5,7 +5,7 @@ cors:
   originPatterns: http://localhost:8080,http://localhost:3000,https://douglas.com.br
 
 file:
-  upload-dir: /workpsaces/Desenvolvimento/workspace-spring/DiretoriosAux
+  upload-dir: /home/runner/work/dockenizar-spring/UploadDir
 
 security:
   jwt:
