@@ -12,3 +12,6 @@
 
 ### Gerar o jar spring com: mvn clean package -DskipTests
 ### Executar containers: docker-compose up -d --build
+
+#GitHub Actions
+Está utilizando GitHub Actions
