@@ -1,3 +1,5 @@
+[![Integração com GitHub Actions](https://github.com/douglasdjf/dockenizar-spring/actions/workflows/integracao-continua.yml/badge.svg?branch=main)](https://github.com/douglasdjf/dockenizar-spring/actions/workflows/integracao-continua.yml)
+
 # Swagger
 
 ### Api Docs: http://localhost:8080/v3/api-docs
