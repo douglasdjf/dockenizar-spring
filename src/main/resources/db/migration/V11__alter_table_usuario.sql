@@ -1,0 +1,2 @@
+ALTER TABLE tb_usuario
+	ADD COLUMN ativo BIT(1) NOT NULL DEFAULT b'1' AFTER idade;
